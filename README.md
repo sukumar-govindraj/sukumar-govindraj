@@ -10,7 +10,7 @@ I could not recover my old GitHub account. You can find all my current and futur
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me: Email
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: "I love hiking and my recent hike was in Picture Rocks, Michigun"
+- ⚡ Fun fact: "I love hiking and my recent hike was in Picture Rocks, Michigan"
 
 ## Skills
 - 🚀 Programming Languages:  Python, Nodejs, R, Scala, Java, SQL
