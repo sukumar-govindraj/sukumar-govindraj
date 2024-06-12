@@ -4,16 +4,15 @@ Welcome to my GitHub profile! I'm excited to share my projects and collaborate w
 ### Notice
 I could not recover my old GitHub account. You can find all my current and future projects here. If you are looking for repositories or information from my old account, please reach out to me directly.
 
-## About Me
+## And for the ppl who don't know Me:
 - 🏫 I’m currently a graduate student at the University of Texas at Arlington
 - 💻 I’m interested in Machine Learning and LLM
 - 🌱 I’m currently learning Data Science
-- 🤝 I’m looking to collaborate on [Projects or Areas You Want to Collaborate On]
-- 📫 How to reach me: [Your Contact Info, e.g., Email, LinkedIn, Twitter, etc.]
+- 📫 How to reach me: Email
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: "I love hiking and my recent hike was in Picture Rocks, Michigun
+- ⚡ Fun fact: "I love hiking and my recent hike was in Picture Rocks, Michigun"
 
-## Skills"
+## Skills
 - 🚀 Programming Languages:  Python, Nodejs, R, Scala, Java, SQL
 - 🔧 Tools & Technologies: Oracle SQL, MongoDB, Tableau, Power BI, Git, AWS, Docker, Kubernets
 - 🌐 Web Development: HTML, CSS, Nodejs, Laravel
