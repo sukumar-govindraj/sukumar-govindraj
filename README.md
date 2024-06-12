@@ -26,8 +26,4 @@ I could not recover my old GitHub account. You can find all my current and futur
 
 
 Thank you for visiting my profile! Feel free to explore my repositories and reach out if you want to collaborate or chat. Have a great day! 😊
-# Welcome to My GitHub Profile!
 
-sukumar-govindraj/sukumar-govindraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
