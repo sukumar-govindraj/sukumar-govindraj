@@ -7,16 +7,16 @@ I could not recover my old GitHub account. You can find all my current and futur
 ## And for the ppl who don't know Me:
 - 🏫 I’m currently a graduate student at the University of Texas at Arlington
 - 💻 I’m interested in Machine Learning and LLM
-- 🌱 I’m currently learning Data Science
-- 📫 How to reach me: Email
+- 🌱 I’m currently a data scientist at Nano Technology Research Center at UTA
+- 📫 How to reach me: sukumar.govindraj@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: "I love hiking and my recent hike was in Picture Rocks, Michigan"
 
 ## Skills
-- 🚀 Programming Languages:  Python, Nodejs, R, Scala, Java, SQL
-- 🔧 Tools & Technologies: Oracle SQL, MongoDB, Tableau, Power BI, Git, AWS, Docker, Kubernets
+- 🚀 Programming Languages:  Python, Nodejs, SQL, Shell Scripting
+- 🔧 Tools & Technologies: PostgreSQL (DBeaver), MongoDB(Robo3T), Tableau, Power BI, Bitbucket, Azure, Docker, Kubernets
 - 🌐 Web Development: HTML, CSS, Nodejs, Laravel
-- 🧠 Machine Learning: TensorFlow, PyTorch
+- 🧠 Machine Learning and Neural Networks:  Scikit-learn, PyTorch
 
 ## Fun Facts
 - 🥊 I enjoy boxing and mixed martial arts in my free time!
