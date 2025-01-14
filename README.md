@@ -1,29 +1,28 @@
 # 👋 Hi, I’m Sukumar!
 
 Welcome to my GitHub profile! I'm excited to share my projects and collaborate with fellow developers and enthusiasts.
-### Notice
-I could not recover my old GitHub account. You can find all my current and future projects here. If you are looking for repositories or information from my old account, please reach out to me directly.
 
 ## And for the ppl who don't know Me:
-- 🏫 I’m currently a graduate student at the University of Texas at Arlington
-- 💻 I’m interested in Machine Learning and LLM
-- 🌱 I’m currently a data scientist at Nano Technology Research Center at UTA
-- 📫 How to reach me: sukumar.govindraj@gmail.com
-- 😄 Pronouns: He/Him
+- 💻 I’m interested in Machine Learning, Quantitative Analytics
+- 🌱 I’m currently a junior data scientist at the Nano Technology Research Center at UTA
+- 🏫 Master's in Applied Statistics and Data Science (GPA: 4.0/4.0)
+- 📧 How to reach me: sukumar.govindaraj@uta.edu
+- ☺️ Pronouns: He/Him
 - ⚡ Fun fact: "I love hiking and my recent hike was in Picture Rocks, Michigan"
 
 ## Skills
-- 🚀 Programming Languages:  Python, Nodejs, SQL, Shell Scripting
-- 🔧 Tools & Technologies: PostgreSQL (DBeaver), MongoDB(Robo3T), Tableau, Power BI, Bitbucket, Azure, Docker, Kubernets
-- 🌐 Web Development: HTML, CSS, Nodejs, Laravel
-- 🧠 Machine Learning and Neural Networks:  Scikit-learn, PyTorch
+- 🚀 Programming Languages: Python, SQL, Shell Scripting
+- 🔧 Tools & Technologies: PostgreSQL, MongoDB, Tableau, Power BI, Apache Spark, Azure Machine Learning, Docker, Kubernetes
+- 🌐 Web Development: Node.js, Flask, Laravel
+- 🧪 Machine Learning and Neural Networks: PyTorch, Scikit-learn, XGBoost
+- ⚙ Methods: Regression, Classification, Clustering, Ensemble Techniques, Feature Engineering, A/B Testing, EDA
 
 ## Fun Facts
 - 🥊 I enjoy boxing and mixed martial arts in my free time!
 - ✏️ I like drawing hand sketches and improving my artistic skills :)
 - 📚 I'm an avid reader
-- 🎮 I'm a gamer and love playing
-
 
 Thank you for visiting my profile! Feel free to explore my repositories and reach out if you want to collaborate or chat. Have a great day! 😊
+
+
 
