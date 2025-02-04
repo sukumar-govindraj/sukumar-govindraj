@@ -3,8 +3,8 @@
 Welcome to my GitHub profile! I'm excited to share my projects and collaborate with fellow developers and enthusiasts.
 
 ## And for the ppl who don't know Me:
-- 💻 I’m interested in Machine Learning, Quantitative Analytics
 - 🌱 I’m currently a junior data scientist at the Nano Technology Research Center at UTA
+- 💻 I’m interested in Machine Learning, Quantitative Analytics
 - 🏫 Master's in Applied Statistics and Data Science (GPA: 4.0/4.0)
 - 📧 How to reach me: sukumar.govindaraj@uta.edu
 - ☺️ Pronouns: He/Him
