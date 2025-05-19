@@ -2,7 +2,7 @@
 Welcome to my GitHub! I’m passionate about **data science, machine learning, and quantitative analytics**, and I use this space to share my projects, experiment with new ideas, and collaborate with like-minded individuals.  
 
 ## **About Me**  
-🌱 **Junior Data Scientist** at the **Nano Technology Research Center, UTA**, developing ML models for research applications.  
+🌱 **Research Assistant** at the **Nano Technology Research Center, UTA**, developing ML models for research applications.  
 💻 **Previous Experience**: Worked as a **Software Engineer at Victoria’s Secret** (supply chain analytics) and as a **Data Engineer at Web Wings Global Solutions**, building pipelines for OTT applications and statistical dashboards.  
 🎓 **Master’s in Applied Statistics & Data Science** (GPA: 4.0/4.0)  
 📩 **Reach me at:** sukumar.govindaraj@uta.edu  
