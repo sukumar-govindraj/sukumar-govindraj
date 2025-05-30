@@ -57,14 +57,14 @@ I'm a data engineer with 4+ years of experience building secure, cloud-native da
 
 ## 🧪 Projects
 
-### 🔹 [Healthcare Revenue Cycle Management](https://github.com/yourrepo/healthcare-rcm)
+### 🔹 [Healthcare Revenue Cycle Management](https://github.com/sukumar-govindraj/healthcare-revenue-cycle-management--RCM--pipeline-prod)
 
 *Azure Data Factory, Synapse, Delta Lake, Power BI*
 
 * Developed metadata-driven ETL pipelines with SCD and CDC logic.
 * Visualized payer performance, AR aging, and denials with HIPAA-compliant dashboards.
 
-### 🔹 [Hybrid Log Classification System (GenAI)](https://github.com/yourrepo/log-classifier)
+### 🔹 [Hybrid Log Classification System (GenAI)](https://github.com/sukumar-govindraj/Hybrid-Log-Classification-and-Monitoring-Sytem-Using-LLM-BERT)
 
 *FastAPI, Sentence Transformers, Regex, LLMs, Docker*
 
