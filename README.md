@@ -90,6 +90,6 @@ I'm a data engineer with 4+ years of experience building secure, cloud-native da
 
 ## 🌐 Connect With Me
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/sukumar-govindraj)
+* 💼 [LinkedIn](https://www.linkedin.com/in/sukumar-govindaraj-918ab7193/)
 * 💻 [GitHub](https://github.com/sukumar-govindraj)
 * 🌍 [Portfolio](https://sukumar-govindraj.github.io/)
