@@ -1,57 +1,57 @@
-# 👋🌾 Hi, I'm Sukumar Govindaraj – Data Engineer & Machine Learning Specialist
+# 👋🚀 Hi, I'm Sukumar Govindaraj – ML Engineer & MLOps Engineer
 
-I'm a data engineer with 4+ years of experience building secure, cloud-native data pipelines and scalable ML systems across Azure and AWS. I specialize in real-time telemetry analytics, GenAI log classification systems, and enterprise-grade data platforms using PySpark, Delta Lake, and FastAPI. Currently pursuing my **M.S. in Applied Statistics & Data Science** at **University of Texas at Arlington**, I am passionate about blending cloud, ML, and engineering practices to power smart and safe digital systems.
+I’m a Machine Learning Engineer with 4+ years of experience designing scalable ML pipelines, automating model retraining, and deploying GenAI systems across AWS and Azure. My expertise lies in building production-grade inference systems, optimizing model lifecycle workflows with MLOps tools, and developing real-time monitoring solutions using FastAPI, MLflow, Docker, and cloud-native services. I'm currently pursuing an **M.S. in Applied Statistics & Data Science** at **University of Texas at Arlington**, focused on bringing reliability and speed to intelligent systems.
 
 ---
 
 ## 🌟 Key Highlights
 
-* Built real-time **telemetry pipelines** using PySpark & Azure App Services to drive anomaly detection in nanofabrication lithography tools.
-* Deployed ML model retraining pipelines with **FastAPI + MLflow**, reducing model latency by **30%**.
-* Developed a **Hybrid Log Classification System** using regex, Sentence Transformers, and LLMs with sub-100ms prediction time.
-* Automated **Delta Lake ingestion** and compliance-grade ETL for **healthcare revenue analytics**, improving KPIs like **AR aging** and **collections**.
-* Secured **row-level access policies** and **data quality automation** for Victoria's Secret supply chain pipelines.
+* Orchestrated **end-to-end ML pipelines** for anomaly detection in telemetry systems using PySpark, MLflow, and Azure Monitor, improving early fault prediction for lithography tools.
+* Deployed retraining workflows with **FastAPI + Docker + MLflow**, reducing model staleness and cutting inference latency by **30%**.
+* Engineered a **Hybrid GenAI Log Classifier** with regex, BERT embeddings, and LLM fallback logic achieving <100ms inference on misclassified log patterns.
+* Implemented **CI/CD pipelines** using GitHub Actions for model versioning, container deployments, and blue-green rollout strategies.
+* Automated experiment tracking and **DVC pipelines** for reproducible sentiment classification workflows on large-scale review datasets.
 
 ---
 
 ## 🛠 Technical Stack
 
-* **Cloud & DevOps:** Azure (ADF, Synapse, App Services, Monitor), AWS (S3, Lambda, Redshift, Glue, SageMaker, Bedrock), Docker, GitHub Actions
-* **Data Engineering:** PySpark, Delta Lake, Medallion Architecture, SSIS, CDC, Data Lakes, Redshift Spectrum
-* **Languages & Tools:** Python, SQL, Scala, FastAPI, Bash, Linux
-* **Monitoring & Security:** Azure Monitor, Log Analytics, Azure Defender, GDPR/HIPAA Compliance
-* **Visualization:** Power BI, Tableau
+* **Cloud & MLOps:** AWS (SageMaker, S3, Lambda, Redshift, Bedrock), Azure (App Services, Synapse, ADF, Monitor), MLflow, DVC, Docker, GitHub Actions, Kubernetes
+* **ML & Engineering:** Scikit-learn, PyTorch, Transformers, Sentence-BERT, Delta Lake, FastAPI, Spark, Feature Stores
+* **Languages & Tools:** Python, SQL, Bash, Git, REST APIs, YAML
+* **Monitoring & Observability:** Azure Monitor, Prometheus, Grafana, Log Analytics
+* **Experimentation & Workflow Management:** Dagshub, DVC, MLflow, GitHub Actions
 
 ---
 
 ## 💼 Experience
 
-### 🔹 Research Assistant
+### 🔹 Research Assistant – ML Engineer (MLOps Focus)
 
 **Nanotechnology Research Center – UT Arlington**
 *Sep 2023 – May 2025*
 
-* Engineered real-time data ingestion from sensor logs to Azure Blob and PostgreSQL using PySpark pipelines.
-* Integrated FastAPI with MLflow for CI/CD retraining of anomaly detection models.
-* Enabled predictive lab monitoring through Azure Monitor and HIPAA-aligned alerting systems.
+* Built real-time data pipelines for sensor ingestion, anomaly detection, and model logging using Azure and PySpark.
+* Developed model retraining API using FastAPI and MLflow with Dockerized deployments across dev and prod stages.
+* Enabled monitoring of drift, retrain triggers, and alerting using Azure Monitor and logging integrations.
 
-### 🔹 Data Engineer
+### 🔹 Data Engineer – ML Systems & Data Ops
 
 **Victoria’s Secret & Co – Bangalore, India**
 *Mar 2022 – Jul 2023*
 
-* Built scalable Azure Synapse + Data Factory pipelines with Delta Lake for supply chain optimization.
-* Introduced versioned datasets and time-travel features for compliant forecasting workflows.
-* Secured pipelines using **role-based visibility** and **row-level security policies**.
+* Designed ML-ready data pipelines using Azure Synapse and Delta Lake for supply chain forecasting.
+* Integrated time-travel and version control into ML datasets to enable reproducible model training.
+* Implemented row-level access policies and audit-compliant metadata pipelines for secure model input/output data.
 
-### 🔹 Data Engineer
+### 🔹 Data Engineer – Streaming & ML Infrastructure
 
 **Web Wings Global Solutions – Bangalore, India**
 *Jan 2021 – Mar 2022*
 
-* Developed SSIS and PySpark pipelines for 1M+ records, orchestrated AWS Glue to Redshift ETL jobs.
-* Automated CI/CD workflows, halving data latency and cutting manual refresh time by 80%.
-* Built consumer-ready data marts using Redshift Spectrum, S3, and Glue Catalog.
+* Built and managed AWS-based ingestion pipelines using Glue, Redshift, and PySpark for predictive analytics.
+* Automated MLOps pipelines for log anomaly detection and integrated user-facing dashboards with model outputs.
+* Deployed statistical monitoring dashboards and retraining hooks using Redshift Spectrum and Lambda triggers.
 
 ---
 
