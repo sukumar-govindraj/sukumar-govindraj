@@ -22,14 +22,21 @@ I’m a Machine Learning Engineer with 3.5+ years of experience designing scalab
 * **Monitoring & Observability:** Azure Monitor, Prometheus, Grafana, Log Analytics
 * **Experimentation & Workflow Management:** Dagshub, DVC, MLflow, GitHub Actions
 
+* **Technical Skills**:    	    Anomaly Detection System, Recommendation System, Predictive Modeling, Software Design Patterns, Database Schema Design
+* **Programming Languages**:    Python, R, JavaScript, SQL, HTML/CSS, C++, Shell scripting
+* **Frameworks and Tools**:     NumPy, PyTorch, PySpark, Scikit-learn, MLflow, DVC, Node.js, Pinecone, SSMS, React, Nodejs, Flask, PyCharm, VS Code, Linux
+* **Cloud Platforms**: 	        AWS (EC2, S3, Lambda, Redshift, CloudWatch), Azure (ML, Synapse, Blob, Monitor)
+* **Professional Skills**: 	    Flexible, Attention to Detail, Committed, Communication, Leadership, Problem-solving skills, Innovation, Critical Thinking
+
+
 ---
 
 ## 💼 Experience
 
-### 🔹 Research Assistant – ML Engineer (MLOps Focus)
+### 🔹 Machine Learning Engineer (MLOps)
 
-**Nanotechnology Research Center – UT Arlington**
-*Sep 2023 – May 2025*
+**Shimadzu Research Center - UT Arlington**
+*Nov 2023 – Current*
 
 * Built real-time data pipelines for sensor ingestion, anomaly detection, and model logging using Azure and PySpark.
 * Developed model retraining API using FastAPI and MLflow with Dockerized deployments across dev and prod stages.
