@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sukumar Govindaraj – Machine Learning Engineer
 
-I’m a Machine Learning Engineer with 3.5+ years of experience designing scalable ML pipelines, automating model retraining, and deploying GenAI systems across AWS and Azure. My expertise lies in building production-grade inference systems, optimizing model lifecycle workflows with MLOps tools, and developing real-time monitoring solutions using FastAPI, MLflow, Docker, and cloud-native services. I'm currently pursuing an **M.S. in Applied Statistics & Data Science** at **University of Texas at Arlington**, focused on bringing reliability and speed to intelligent systems.
+I’m a Machine Learning Engineer with 5+ years of experience designing scalable ML pipelines, automating model retraining, and deploying GenAI systems across AWS and Azure. My expertise lies in building production-grade inference systems, optimizing model lifecycle workflows with MLOps tools, and developing real-time monitoring solutions using FastAPI, MLflow, Docker, and cloud-native services. I'm currently pursuing an **M.S. in Applied Statistics & Data Science** at **University of Texas at Arlington**, focused on bringing reliability and speed to intelligent systems.
 
 ---
 
