@@ -35,14 +35,14 @@ I’m a Machine Learning Engineer with 5+ years of experience designing scalable
 
 ### 🔹 Machine Learning Engineer (MLOps)
 
-**Shimadzu Research Center - UT Arlington**
-*Nov 2023 – Current*
+**Nano Technology Research Center - UT Arlington**
+*Oct 2023 – Oct 2025*
 
 * Built real-time data pipelines for sensor ingestion, anomaly detection, and model logging using Azure and PySpark.
 * Developed model retraining API using FastAPI and MLflow with Dockerized deployments across dev and prod stages.
 * Enabled monitoring of drift, retrain triggers, and alerting using Azure Monitor and logging integrations.
 
-### 🔹 Data Engineer – ML Systems & Data Ops
+### 🔹 Machine Learning Engineer – ML Systems & Data Ops
 
 **Victoria’s Secret & Co – Bangalore, India**
 *Mar 2022 – Jul 2023*
@@ -51,10 +51,10 @@ I’m a Machine Learning Engineer with 5+ years of experience designing scalable
 * Integrated time-travel and version control into ML datasets to enable reproducible model training.
 * Implemented row-level access policies and audit-compliant metadata pipelines for secure model input/output data.
 
-### 🔹 Data Engineer – Streaming & ML Infrastructure
+### 🔹 Machine Learning – Streaming & ML Infrastructure
 
 **Web Wings Global Solutions – Bangalore, India**
-*Jan 2021 – Mar 2022*
+*Jan 2020 – Mar 2022*
 
 * Built and managed AWS-based ingestion pipelines using Glue, Redshift, and PySpark for predictive analytics.
 * Automated MLOps pipelines for log anomaly detection and integrated user-facing dashboards with model outputs.
