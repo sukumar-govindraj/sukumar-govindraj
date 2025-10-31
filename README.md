@@ -16,7 +16,7 @@ I’m a Machine Learning Engineer with 5+ years of experience designing scalable
 
 ## 🛠 Technical Stack
 
-* **Cloud & MLOps:** AWS (SageMaker, S3, Lambda, Redshift, Bedrock), Azure (App Services, Synapse, ADF, Monitor), MLflow, DVC, Docker, GitHub Actions, Kubernetes
+* **Cloud & MLOps:** Google Cloud (BigQuery ML, Cloud Storage, Vertex AI), AWS (SageMaker, S3, Lambda, Redshift, Bedrock), Azure (App Services, Synapse, ADF, Monitor), MLflow, DVC, Docker, GitHub Actions, Kubernetes
 * **ML & Engineering:** Scikit-learn, PyTorch, Transformers, Sentence-BERT, Delta Lake, FastAPI, Spark, Feature Stores
 * **Languages & Tools:** Python, SQL, Bash, Git, REST APIs, YAML
 * **Monitoring & Observability:** Azure Monitor, Prometheus, Grafana, Log Analytics
